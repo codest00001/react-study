@@ -8,8 +8,8 @@
 변하는 본문 부분만 children을 이용하여 다르게 보여주는 방식.
 
 리액트 수업시간에 form-test 폴더에서 Card.jsx / CardList.jsx에서 코딩한 내용임. 카드의 배경색, radius와 같은 카드의 틀은 반복해서 유지되고, 카드마다의 내용은 제각각으로 표현가능.   
- Card.jsx 에서 카드틀의 스타일을 코딩함.   
- CardList.jsx 에서 각 카드의 내부 내용을 코딩함.   
+Card.jsx 에서 카드틀의 스타일을 코딩함. CardList.jsx 에서 각 카드의 내부 내용을 코딩함.   
+CardList에서 <Card> 태그 안에 내용을 작성했기 때문에 CardList의 <Card></Card>안의 내용이 children안에 들어가서 보여짐.
 
 숙제) useState, useEffect 언제 사용하고, 왜 사용하는 지 공부해오기
 
