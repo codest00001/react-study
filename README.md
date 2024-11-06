@@ -8,6 +8,7 @@ children을 이용해서 변하는 부분만 다른 내용을 넣어서 표현 �
 수업시간에 form-test 폴더에서 card.jsx cardList.jsx에서 코딩한 내용임.
 
 숙제) useState, useEffect 언제 사용하고, 왜 사용하는 지 공부해오기
+
 ---
 ### 2차) 241104 월
 📗리액트 props
