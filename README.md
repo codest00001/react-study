@@ -9,7 +9,7 @@
 
 리액트 수업시간에 form-test 폴더에서 Card.jsx / CardList.jsx에서 코딩한 내용임. 카드의 틀은 반복해서 유지되고, 카드마다의 내용은 제각각으로 표현가능.   
  Card.jsx 에서 카드틀의 스타일을 코딩함.   
- CardList.jsx 에서 각 카드의 내용을 코딩함.   
+ CardList.jsx 에서 각 카드의 내부 내용을 코딩함.   
 
 숙제) useState, useEffect 언제 사용하고, 왜 사용하는 지 공부해오기
 
