@@ -11,7 +11,7 @@
 Card.jsx 에서 카드틀의 스타일을 코딩함. CardList.jsx 에서 각 카드의 내부 내용을 코딩함.   
 CardList에서 `<Card></Card>` 태그 안에 내용을 작성했기 때문에 CardList의 `<Card></Card>` 안의 내용이 children안에 들어가고, Card에서 정한 카드 틀안에 각각의 내용들이 들어간 모습으로 보여짐. 
 
-숙제) useState, useEffect 언제 사용하고, 왜 사용하는 지 공부해오기
+숙제) useState, useEffect 언제 사용하고, 왜 사용하는 지 공부해오기   
 계획) 아침이나 점심시간에 추가 스터디 진행할 수도 있음
 
 ---
