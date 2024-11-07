@@ -4,7 +4,7 @@
 ### 4차) 241107 목 점심
 📘 백엔드 레이어드아키텍쳐   
 
-## ch06_02 api.js 코드보기
+ch06_02 api.js 코드보기
 
 <details>
 <summary>접기/펼치기</summary>
