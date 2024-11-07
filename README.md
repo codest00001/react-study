@@ -4,13 +4,13 @@
 ### 4차) 241107 목
 📘 백엔드 레이어드아키텍쳐   
 
-## 접기 시작
+## 코드보기
 
 <details>
 <summary>접기/펼치기</summary>
 
 
-## 접은 제목
+## ch06_02 api.js 코드를 보며 설명
 const express = require("express");
 const fs = require("fs");
 var moment = require("moment");
