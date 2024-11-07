@@ -3,14 +3,14 @@
 
 ### 4차) 241107 목 점심
 📘 백엔드 레이어드아키텍쳐   
-
-ch06_02 api.js 코드보기
+ch06_02 api.js 코드를 보며 진행됨
+controller service dao 각각에 어떠한 코드가 들어갈 지 공부
 
 <details>
 <summary>접기/펼치기</summary>
 
 
-# ch06_02 api.js 코드를 보며 진행됨
+ch06_02 api.js
 
 const express = require("express");
 const fs = require("fs");
