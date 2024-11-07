@@ -7,7 +7,7 @@ ch06_02 api.js 코드를 보며 진행됨
 controller service dao 각각에 어떠한 코드가 들어갈 지 공부
 
 <details>
-<summary>접기/펼치기</summary>
+<summary>코드펼치기</summary>
 
 
 ch06_02 api.js
