@@ -1,6 +1,22 @@
 # react-study
 ## 남부_월수금토_스터디 📚
 
+### 5차) 241108 금 점심
+📘 백엔드 서버띄우기   
+<details>
+<summary> 코드여닫기 클릭!</summary>
+    const express = require('express');
+
+const PORT = 3000;
+
+const app = express();
+
+app.listen(PORT, ()=>{
+    console.log(`server start`)
+})
+</details>details>
+---
+
 ### 4차) 241107 목 점심
 📘 백엔드 레이어드아키텍쳐   
 ch06_02 api.js 코드를 보며 진행됨   controller service dao 각각에 어떠한 코드가 들어갈 지 공부
