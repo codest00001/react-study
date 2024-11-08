@@ -14,7 +14,7 @@ const app = express();
 app.listen(PORT, ()=>{
     console.log(`server start`)
 })
-</details>---
+</details>
 
 ### 4차) 241107 목 점심
 📘 백엔드 레이어드아키텍쳐   
