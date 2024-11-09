@@ -3,7 +3,7 @@
 const { Sequelize } = require('sequelize');
 
 // Sequelize 인스턴스 생성 (PostgreSQL 연결)
-const sequelize = new Sequelize('yourdatabase', 'postgres', 'yourpassword', {
+const sequelize = new Sequelize('nbstudy1', 'postgres', 'nbstudy1', {
   host: 'localhost',
   dialect: 'postgres',
 });
