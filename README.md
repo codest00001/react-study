@@ -34,7 +34,7 @@ app.listen(PORT, ()=>{
 })
 </details>
 
-숙제) crud할 수 있는 코드 직접 구현해오기
+숙제) crud할 수 있는 코드 직접 짜오기
 
 ---
 
